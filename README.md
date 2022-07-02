@@ -1,5 +1,5 @@
 ### Olá👋, me chamo Guilherme
-<p>Sou universitário da Unip.Cursando análise e desenvolvimento de sistemas,sempre procuro aplimorar minhas habilidades em programação para conseguir me tornar um desenvolvedor Full-Stack</p>
+<p>Sou universitário da Unip Cursando análise e desenvolvimento de sistema, sempre procuro aplimorar minhas habilidades em programação para conseguir me tornar um desenvolvedor Full-Stack</p>
 
 - 📖 Faculdade: Unip-Análise e desenvolvimento de sistema
 - 💻 Estudando: Front-end
@@ -12,15 +12,15 @@
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-bootstrap" height="30" width="40"
+  <img align="center" alt="Gui-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-bootstrap" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Gui-Java" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Gui-MySql" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Gui-nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Gui-nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Gui-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Gui-MySql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6294/333dcb49cd2a38f141f455119989d7f203c75fce_128.gif">
 </div>
 
