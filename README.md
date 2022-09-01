@@ -2,7 +2,7 @@
 <p>Sou universitário da Unip Cursando análise e desenvolvimento de sistema, sempre procuro aplimorar minhas habilidades em programação para conseguir me tornar um desenvolvedor Full-Stack</p>
 
 - 📖 Faculdade: Unip-Análise e desenvolvimento de sistema
-- 💻 Estudando: Front-end
+- 💻 Estudando: Typescript
 - 📫 Contrate-me por: guime0162@gmail.com
 
 <div align="center">
