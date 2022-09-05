@@ -6,8 +6,10 @@
 - 📫 Contrate-me por: guime0162@gmail.com
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLisboa3&show_icons=true&theme=vue-dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLisboa3&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/GuilhermeLisboa3">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLisboa3&show_icons=true&theme=vue-dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLisboa3&layout=compact&langs_count=7&theme=vue-dark"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
