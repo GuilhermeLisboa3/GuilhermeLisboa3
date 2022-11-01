@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DA47A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=042940&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Lisboa;I'm+19+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2bde0b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Lisboa;I'm+19+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLisboa3&show_icons=true&count_private=true&hide_border=true&title_color=3DA47A&icon_color=3DA47A&text_color=F9F8F9&bg_color=0d1117" alt="Guilherme Lisboa github stats" /> 
@@ -27,10 +27,12 @@
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E96228)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
+<br>
+  
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=C03B13)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3DA47A&height=120&section=footer"/>
