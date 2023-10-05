@@ -40,4 +40,5 @@
 ![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&logoColor=F9DC3e)
 ### Studying in this moment:
 ![React Native](https://img.shields.io/badge/react_native-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
