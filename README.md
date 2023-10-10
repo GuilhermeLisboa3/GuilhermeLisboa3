@@ -38,7 +38,10 @@
 ![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&logoColor=F9DC3e)
-### Studying in this moment:
 ![React Native](https://img.shields.io/badge/react_native-0D1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Studying in this moment:
 ![NestJS](https://img.shields.io/badge/nestjs-0D1117.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=white)
 
